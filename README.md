@@ -58,39 +58,22 @@ the ability to perform well in collaboration.</h3>
  
 </div>
 
- <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
-
-| 📊 Github Stats | 📊 Current Strek  |
-| --- | --- |
-| ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sks-7&show_icons=true&theme=dark&title_color=FDA117&text_color=F2E9DB) | [![GitHub Streak](https://streak-stats.demolab.com?user=sks-7&theme=dark)](https://git.io/streak-stats) |
-
-
-
-
-
-<!-- | 📊 Top Languages | 📈 Contribution Graph  |
-| :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=sks-7&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB" alt="Sachin's Language stats" /> | <img align="right" src="https://activity-graph.herokuapp.com/graph?username=sks-7&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> | -->
-
-
-| 📊 Top Languages | 📈 Contribution Graph  |
-| :--- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sks-7&layout=demo&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&theme=dark&text_color=F2E9DB)](https://github.com/sks-7/github-readme-stats)| <img align="right" src="https://activity-graph.herokuapp.com/graph?username=sks-7&theme=react-dark&hide_border=true&area=true&color=BDDFFF&line=6E93B5&point=F4B520" height="10%" width="100%"/> |
-
-
-
-  
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-++++++++++tyhis my++++++++
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
+ 
+<hr />
+<h2 align="left">📊 My Github Stats</h2>
+<br/>   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshivang80&show_icons=true&locale=en&layout=compact" alt="kshivang80" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshivang80&show_icons=true&locale=en" alt="kshivang80" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshivang80&" alt="kshivang80" /></p>
+
+
+
+
+
+
+
+
+
