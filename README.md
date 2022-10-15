@@ -12,13 +12,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshivang80" alt="kshivang80" /></a> </p>
 
-<h3>An enthusiastic, self-motivated and passionate front-end
-and backend web developer with a specialization in MERN stack. Problem solving mindset and
-the ability to perform well in collaboration.</h3>
 
+<h2>🙋‍♂️ About Me</h2>
+
+- 🔭 I’m I’m currently pursuing Full Stack **Web Development**
+- 🌱 I’m currently learning **Backend**
 - 👨‍💻 Checkout my [Portfolio](https://kshivang80.github.io/)
 - 📋 Checkout my [Resume](https://drive.google.com/file/d/1-wfUN-ge2rG3uKSKUveUQ68GqxxxZAVm/view?usp=sharing)
 - 📧 How to reach me,kshivang80@gmail.com
+- ⚡ Fun fact **i am funny 	:innocent:**
 
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
