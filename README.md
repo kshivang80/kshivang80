@@ -64,8 +64,10 @@
 <hr />
 <h2 align="left">📊 My Github Stats</h2>
 <br/>   
+<div margin="auto" border="1px solid red">
+ <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kshivang80&show_icons=true&locale=en&layout=compact" alt="kshivang80" /></p>
+ </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshivang80&show_icons=true&locale=en&layout=compact" alt="kshivang80" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshivang80&show_icons=true&locale=en" alt="kshivang80" /></p>
 
